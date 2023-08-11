@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ifunanya
-- 👀 I’m interested in using Python Programming to improve healthcare service delivery.
-- 🌱 I’m currently working with Big Data and Artificial Intelligence(Machine Learning.
-- 💞️ I’m looking to collaborate on healthcare projects.
+- 👀 I’m interested in using Python Programming to improve life as we know it.
+- 🌱 I’m currently working with Big Data and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science projects.
 - 📫 You can reach me at ieezeume@mtu.edu
 
 <!---
